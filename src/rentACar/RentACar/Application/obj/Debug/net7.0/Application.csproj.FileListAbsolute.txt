@@ -1,0 +1,12 @@
+C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\rentACar\RentACar\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\rentACar\RentACar\Application\bin\Debug\net7.0\Application.dll
+C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\rentACar\RentACar\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\rentACar\RentACar\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\rentACar\RentACar\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\rentACar\RentACar\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\rentACar\RentACar\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\rentACar\RentACar\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\rentACar\RentACar\Application\obj\Debug\net7.0\Application.dll
+C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\rentACar\RentACar\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\rentACar\RentACar\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\rentACar\RentACar\Application\obj\Debug\net7.0\ref\Application.dll

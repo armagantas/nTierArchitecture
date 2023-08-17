@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "FVltH2B2GNwpDzSNGlEol6xguBARYbU9ymrft7+in8Wd4Gsk//3bMW5MmwiUG8/kM/Ue8jekL3qwoY0MG3DWdg==",
+  "dgSpecHash": "agwHy5WFGYEsc/c/O7JGlcSX6UHrfkUSTBjU0ds5dyQkK+H0LEsUdsBZ4q17LGM9/MLCdG3UfyYVau2iL0aL0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Application\\Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\armag\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\armag\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\armag\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
