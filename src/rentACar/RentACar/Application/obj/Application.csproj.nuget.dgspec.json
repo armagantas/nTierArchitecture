@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Application\\Application.csproj": {}
+    "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Application\\Application.csproj": {
+    "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\armag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\armag\\OneDrive\\Belgeler\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Application\\obj\\",
+        "outputPath": "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\armag\\AppData\\Roaming\\NuGet\\NuGet.Config",

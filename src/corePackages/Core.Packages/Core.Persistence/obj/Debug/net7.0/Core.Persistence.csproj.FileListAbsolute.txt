@@ -10,3 +10,15 @@ C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\corePackages\Core.
 C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.pdb
 C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\ref\Core.Persistence.dll
 C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.csproj.AssemblyReference.cache
+C:\Users\armag\Documents\GitHub\nTierArchitecture\src\corePackages\Core.Packages\Core.Persistence\bin\Debug\net7.0\Core.Persistence.deps.json
+C:\Users\armag\Documents\GitHub\nTierArchitecture\src\corePackages\Core.Packages\Core.Persistence\bin\Debug\net7.0\Core.Persistence.dll
+C:\Users\armag\Documents\GitHub\nTierArchitecture\src\corePackages\Core.Packages\Core.Persistence\bin\Debug\net7.0\Core.Persistence.pdb
+C:\Users\armag\Documents\GitHub\nTierArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.csproj.AssemblyReference.cache
+C:\Users\armag\Documents\GitHub\nTierArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armag\Documents\GitHub\nTierArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.AssemblyInfoInputs.cache
+C:\Users\armag\Documents\GitHub\nTierArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.AssemblyInfo.cs
+C:\Users\armag\Documents\GitHub\nTierArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\armag\Documents\GitHub\nTierArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.dll
+C:\Users\armag\Documents\GitHub\nTierArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\refint\Core.Persistence.dll
+C:\Users\armag\Documents\GitHub\nTierArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.pdb
+C:\Users\armag\Documents\GitHub\nTierArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\ref\Core.Persistence.dll
