@@ -45,8 +45,10 @@ namespace Core.Persistence.Paging
                 Size = size,
                 Count = count,
                 Items = items,
-                Pages = (int)Math.Ceiling(count/(double)size)
-            }
+                Pages = (int)Math.Ceiling(count / (double)size)
+            };
+
+            return list;
         }
     }
 }

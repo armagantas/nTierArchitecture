@@ -1,4 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore.Query;
+﻿using Core.Persistence.Dynamic;
+using Core.Persistence.Paging;
+using Microsoft.EntityFrameworkCore.Query;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,7 +21,7 @@ namespace Core.Persistence.Repositories
             CancellationToken cancellationToken = default
             );
 
-        Task<IPaginate<TEntity>> GetListAsync(
+        Task<Paginate<TEntity>> GetListAsync(
             Expression<Func<TEntity, bool>>? predicate = null,
             Func<IQueryable<TEntity>, IOrderedEnumerable<TEntity>>? orderBy = null,
             Func<IQueryable<TEntity>, IIncludableQueryable<TEntity, object>>? include = null,
@@ -30,7 +32,7 @@ namespace Core.Persistence.Repositories
             CancellationToken cancellationToken = default
             );
 
-        Task<IPaginate<TEntity>> GetListByDynamicAsync(
+        Task<Paginate<TEntity>> GetListByDynamicAsync(
             DynamicQuery dynamic,
             Expression<Func<TEntity, bool>>? predicate = null,
             Func<IQueryable<TEntity>, IIncludableQueryable<TEntity, object>>? include = null,
