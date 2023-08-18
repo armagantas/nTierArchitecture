@@ -9,3 +9,4 @@ C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\corePackages\Core.
 C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\refint\Core.Persistence.dll
 C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.pdb
 C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\ref\Core.Persistence.dll
+C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\corePackages\Core.Packages\Core.Persistence\obj\Debug\net7.0\Core.Persistence.csproj.AssemblyReference.cache
