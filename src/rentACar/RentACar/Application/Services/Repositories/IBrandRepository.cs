@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Application.Services.Repositories
 {
-    internal interface IBrandRepository
+    public interface IBrandRepository:IAsyncRepository<Brand>,IBrandRepository<Brand>
     {
+
     }
 }
