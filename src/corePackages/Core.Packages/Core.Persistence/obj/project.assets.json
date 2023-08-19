@@ -6995,11 +6995,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj",
       "projectName": "Core.Persistence",
-      "projectPath": "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj",
+      "projectPath": "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj",
       "packagesPath": "C:\\Users\\armag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\corePackages\\Core.Packages\\Core.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\armag\\AppData\\Roaming\\NuGet\\NuGet.Config",

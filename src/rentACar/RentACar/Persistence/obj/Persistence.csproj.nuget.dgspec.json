@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Persistence\\Persistence.csproj": {}
+    "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\rentACar\\RentACar\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\rentACar\\RentACar\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\rentACar\\RentACar\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\rentACar\\RentACar\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\armag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\rentACar\\RentACar\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\armag\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Application\\Application.csproj": {
+    "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\rentACar\\RentACar\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\rentACar\\RentACar\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\rentACar\\RentACar\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\armag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Application\\obj\\",
+        "outputPath": "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\rentACar\\RentACar\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\armag\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj",
+        "projectPath": "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\armag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\WebApi\\obj\\",
+        "outputPath": "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\rentACar\\RentACar\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\armag\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Application\\Application.csproj"
+              "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\rentACar\\RentACar\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\rentACar\\RentACar\\Application\\Application.csproj"
               }
             }
           }

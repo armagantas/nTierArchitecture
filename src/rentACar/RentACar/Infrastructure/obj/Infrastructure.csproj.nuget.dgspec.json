@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\rentACar\\RentACar\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\rentACar\\RentACar\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\rentACar\\RentACar\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\rentACar\\RentACar\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\armag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\armag\\Documents\\GitHub\\nTierArchitecture\\src\\rentACar\\RentACar\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\rentACar\\RentACar\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\armag\\AppData\\Roaming\\NuGet\\NuGet.Config",
