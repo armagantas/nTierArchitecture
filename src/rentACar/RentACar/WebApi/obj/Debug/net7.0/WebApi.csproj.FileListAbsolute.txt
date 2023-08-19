@@ -35,3 +35,13 @@ C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\rentACar\RentACar\
 C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.pdb
 C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
 C:\Users\armag\OneDrive\Belgeler\GitHub\nTierArchitecture\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+C:\Users\armag\OneDrive\Masaüstü\nTierArchitecture\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\armag\OneDrive\Masaüstü\nTierArchitecture\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armag\OneDrive\Masaüstü\nTierArchitecture\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\armag\OneDrive\Masaüstü\nTierArchitecture\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.AssemblyInfo.cs
+C:\Users\armag\OneDrive\Masaüstü\nTierArchitecture\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\armag\OneDrive\Masaüstü\nTierArchitecture\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\armag\OneDrive\Masaüstü\nTierArchitecture\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\armag\OneDrive\Masaüstü\nTierArchitecture\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.dll
+C:\Users\armag\OneDrive\Masaüstü\nTierArchitecture\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\refint\WebApi.dll
+C:\Users\armag\OneDrive\Masaüstü\nTierArchitecture\src\rentACar\RentACar\WebApi\obj\Debug\net7.0\WebApi.pdb
