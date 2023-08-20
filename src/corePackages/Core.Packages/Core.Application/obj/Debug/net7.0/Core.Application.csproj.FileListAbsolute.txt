@@ -1,0 +1,11 @@
+C:\Users\armag\OneDrive\Masaüstü\nTierArchitecture\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.Application.deps.json
+C:\Users\armag\OneDrive\Masaüstü\nTierArchitecture\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.Application.dll
+C:\Users\armag\OneDrive\Masaüstü\nTierArchitecture\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.Application.pdb
+C:\Users\armag\OneDrive\Masaüstü\nTierArchitecture\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armag\OneDrive\Masaüstü\nTierArchitecture\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.AssemblyInfoInputs.cache
+C:\Users\armag\OneDrive\Masaüstü\nTierArchitecture\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.AssemblyInfo.cs
+C:\Users\armag\OneDrive\Masaüstü\nTierArchitecture\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\armag\OneDrive\Masaüstü\nTierArchitecture\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.dll
+C:\Users\armag\OneDrive\Masaüstü\nTierArchitecture\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\refint\Core.Application.dll
+C:\Users\armag\OneDrive\Masaüstü\nTierArchitecture\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.pdb
+C:\Users\armag\OneDrive\Masaüstü\nTierArchitecture\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\ref\Core.Application.dll
