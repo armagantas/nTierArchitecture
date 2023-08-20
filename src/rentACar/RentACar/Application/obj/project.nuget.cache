@@ -1,12 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "S+lqEhVIzE6SQ2mYeSc/4REbaIWAAny8HFXAFbEydT6Hs6Ex69FxwActyvwNr8djfaWX9v7pKn8Yau087c6JDg==",
+  "dgSpecHash": "5AibhQdQUMpC4cwlU+GoD/qD1uvA1blG8qrzNl/jRJMwjK9w6tgsSd9eBT9Cv7HrMjGmAtJTtzXsN+TsXbG/fw==",
   "success": true,
   "projectFilePath": "C:\\Users\\armag\\OneDrive\\Masaüstü\\nTierArchitecture\\src\\rentACar\\RentACar\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\armag\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\armag\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\armag\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\armag\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\armag\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    "C:\\Users\\armag\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\armag\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\armag\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\armag\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\armag\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
